@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am a student athlete at Denison University.
 I am majoring in Data Analytics with a concentration in Sports Psychology. 
-I hope to one day work in a Major League baseball organization. 
+I hope to one day work in a Major League baseball organization, if I am not playing for one!
 I am currently involved in Mission34 and DSAAC on campus outside of playing on the varsity baseball team.
 I have experience with Python, R and SQL. 
 
